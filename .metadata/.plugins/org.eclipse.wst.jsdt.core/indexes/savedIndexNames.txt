@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Luis Eduardo\Desktop\Eclipse2022\eclipse\LPII_CL3_LIMA_QUISPE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2945787129.index
